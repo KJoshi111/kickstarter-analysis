@@ -8,6 +8,6 @@
 
 We created graphs of all the above points:
 
-![Outcomes-Based-on-Launch-Date](C:\Users\davek\OneDrive\Desktop\Studies\Exercises\Outcomes_Based_on_Launch_Date.png)
+![Outcomes-Based-on-Launch-Date](C:\\Users\\davek\\OneDrive\\Desktop\\Studies\\Exercises\\Outcomes_Based_on_Launch_Date.png)
 
-![Parent-Category-Outcomes-Chart](C:\Users\davek\OneDrive\Desktop\Studies\Exercises\Parent_Category_Outcomes_Chart.png)
+![Parent-Category-Outcomes-Chart](C:\\Users\\davek\\OneDrive\\Desktop\\Studies\\Exercises\\Parent_Category_Outcomes_Chart.png)
