@@ -12,8 +12,8 @@
 
 1.	Analyzing theater outcomes by the launch date, we can conclude that the rate of success of theatrical entertainment is higher during August:
 
-      ![Theater-Outcomes-vs-Launch](.Theater_Outcomes_vs_Launch.png)
+      ![Theater-Outcomes-vs-Launch](https://github.com/KJoshi111/kickstarter-analysis/blob/main/Theater_Outcomes_vs_Launch.png)
 
 2.	Analyzing overall outcomes based on goals, we can conclude that the rate of success is higher with a goal of less than 1000:
       
-      ![Outcomes-vs-Goals](.Outcomes_vs_Goals.png)
+      ![Outcomes-vs-Goals](https://github.com/KJoshi111/kickstarter-analysis/blob/main/Outcomes_vs_Goals.png)
