@@ -15,11 +15,11 @@ A challenge is that the dataset has many categories and subcategories and it is 
 
 Here are the clear conclusions we can derive from the different methods of separating data.
 
-1.	Analyzing theater outcomes by the launch date, we can conclude that the rate of success of theatrical entertainment is higher during August. We can also conclude that the rate of failure and rate of success of theatrical entertainment is equivalent during the month of August.:
+1.	Analyzing theater outcomes by the launch date, we can conclude that the rate of success of theatrical entertainment is higher during July. We can also conclude that the rate of failure and rate of success of theatrical entertainment are roughly equivalent during the month of January.:
 
-      ![Theater-Outcomes-vs-Launch](https://github.com/KJoshi111/kickstarter-analysis/blob/main/Theater_Outcomes_vs_Launch.png)
+      ![Theater-Outcomes-vs-Launch](https://github.com/KJoshi111/kickstarter-analysis/blob/main/Theater_Outcomes_vs_Launch.png.png)
 
-2.	Analyzing overall outcomes based on goals, we can conclude that the rate of success is higher with a goal of less than 1000:
+2.	Analyzing overall outcomes based on goals, we can conclude that the rate of success is higher with a goal of less than $1000:
       
       ![Outcomes-vs-Goals](https://github.com/KJoshi111/kickstarter-analysis/blob/main/Outcomes_vs_Goals.png)
 
